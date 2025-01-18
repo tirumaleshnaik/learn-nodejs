@@ -30,3 +30,13 @@ reasons
 5. Newer way
 6. It is becoming the standard going forward
 7. code runs in strict mode
+
+
+
+require("./path)
+1. resolving the module
+2. loading the module
+3. wraps inside a iife
+4. evaluation 
+5. caching if multiple files needs same module
+
