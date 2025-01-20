@@ -40,3 +40,7 @@ require("./path)
 4. evaluation 
 5. caching if multiple files needs same module
 
+Node.js
+
+nodejs has event driven architecture and asynchronous
+
